@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DkatalisAssignment</string>
+    <string name="user_icon">User</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="location">Location</string>
+    <string name="call">Call</string>
+    <string name="lock">Lock</string>
+    <string name="address_val">4661 Auburn Ave</string>
+    <string name="my_address_title">My address is</string>
+    <string name="profile_image_val">Profile Image</string>
+    <string name="reject_button">Reject</string>
+    <string name="accept_button">Accept</string>
+</resources>
